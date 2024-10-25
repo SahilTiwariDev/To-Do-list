@@ -554,7 +554,12 @@ video {
   display: none;
 }
 
-.bg-red-800 {
+.bg-dark-green {
   --tw-bg-opacity: 1;
-  background-color: rgb(153 27 27 / var(--tw-bg-opacity));
+  background-color: rgb(113 131 85 / var(--tw-bg-opacity));
+}
+
+.bg-light-green {
+  --tw-bg-opacity: 1;
+  background-color: rgb(233 245 219 / var(--tw-bg-opacity));
 }
